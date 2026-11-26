@@ -1,9 +1,9 @@
-"""Draft blamed a full dustbin, an excuse any appliance could make.
+"""Draft blames a full dustbin, an excuse any appliance could make.
 Revision gives the vacuum a lost fight, a dock, and a sock it cannot explain."""
 
 import os
 
-TEXT = 'I skipped that corner: the dog guards it, and last time he won I woke up on my dock wearing a sock.'
+TEXT = "I skipped that corner: the dog owns it, and last time he won I woke on my dock in a sock."
 
 assert TEXT == TEXT.strip()
 assert "\n" not in TEXT and "\r" not in TEXT
